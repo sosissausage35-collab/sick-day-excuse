@@ -1,0 +1,1 @@
+{"description":"The Funniest Sick-Day Excuse — a single-line sick-day excuse written to /output/entry.txt","license":"MIT","name":"sick-day-excuse","scripts":{"start":"node --experimental-strip-types main.ts"},"type":"module","version":"1.0.0"}
